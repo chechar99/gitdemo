@@ -5,3 +5,6 @@ violeta
 amarillo
 blanco
 naranja
+morado
+negro
+
