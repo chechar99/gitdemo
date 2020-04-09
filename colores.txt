@@ -2,3 +2,5 @@ rojo
 verde
 azul
 violeta
+morado
+negro
