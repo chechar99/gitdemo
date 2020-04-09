@@ -2,3 +2,6 @@ rojo
 verde
 azul
 violeta
+amarillo
+blanco
+naranja
